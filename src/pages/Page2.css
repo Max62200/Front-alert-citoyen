@@ -1,0 +1,40 @@
+.container {
+    text-align: center;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 50;
+    transform: translateY(-50%);
+  }
+  
+  
+  .container a {
+    text-decoration: none;
+  }
+  
+  .h2{
+    color: black;
+    font-weight:bold;
+    font-size:40px;
+   
+  
+  }
+  
+  .H2{
+     
+  }
+  
+  .alerte{
+    
+    width: 30%;
+    
+  }
+  
+  .D-alerte{
+    display: flex;
+    justify-content: center;
+  }
+
+  .But{
+      margin:12.5%;
+  }

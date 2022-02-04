@@ -7,18 +7,30 @@
   transform: translateY(-50%);
 }
 
-.container strong {
-  font-size: 20px;
-  line-height: 26px;
-}
-
-.container p {
-  font-size: 16px;
-  line-height: 22px;
-  color: #8c8c8c;
-  margin: 0;
-}
 
 .container a {
   text-decoration: none;
+}
+
+.h1{
+  color: black;
+  font-weight:bold;
+  font-size:50px;
+ 
+
+}
+
+.H1{
+   margin-bottom:25%;
+}
+
+.alerte{
+  
+  width: 40%;
+  margin-bottom: 25%;
+}
+
+.D-alerte{
+  display: flex;
+  justify-content: center;
 }
